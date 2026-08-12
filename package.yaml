@@ -1,0 +1,8 @@
+# Package definition for starship
+
+package_name: starship
+github_repo: starship/starship
+artifact_format: tar.gz
+description: "The minimal, blazing-fast, and infinitely customizable prompt for any shell"
+
+# Build for all Debian suites and all supported architectures.
