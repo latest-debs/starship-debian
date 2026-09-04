@@ -5,5 +5,6 @@ github_repo: starship/starship
 license: ISC
 artifact_format: tar.gz
 description: "The minimal, blazing-fast, and infinitely customizable prompt for any shell"
+license: ISC
 
 # Build for all Debian suites and all supported architectures.
